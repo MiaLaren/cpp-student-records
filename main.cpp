@@ -51,5 +51,5 @@ int main (){
     StudentUtils::displayStudentInfo(studentName, static_cast<GradeLevel>(gradeInput), gpa);
 
     return 0;
-    
+
 }
